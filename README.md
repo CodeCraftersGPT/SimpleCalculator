@@ -1,6 +1,6 @@
 # Simple Calculator
 
-Calculator Demo<!href http://127.0.0.1:5500/ui.html>
+Calculator Demo
 
 ## Overview
 
