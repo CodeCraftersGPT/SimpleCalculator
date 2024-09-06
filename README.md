@@ -1,6 +1,6 @@
 # Simple Calculator
 
-!Calculator Demo
+Calculator Demo<!href http://127.0.0.1:5500/ui.html>
 
 ## Overview
 
@@ -18,7 +18,7 @@ This is a simple calculator application built with Python . It performs basic ar
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/simple-calculator.git
+    git clone https://github.com/yourusername/SimpleCalculator.git
     ```
 2. Navigate to the project directory:
     ```bash
