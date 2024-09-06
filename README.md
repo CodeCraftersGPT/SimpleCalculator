@@ -22,9 +22,8 @@ This is a simple calculator application built with Python . It performs basic ar
     ```
 2. Navigate to the project directory:
     ```bash
-    cd simple-calculator
+    cd simplecalculator
     ```
-3. Open `index.html` in your web browser to use the calculator.
 
 ## Usage
 
